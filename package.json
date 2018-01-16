@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiddentao/elementrem-client-binaries.git"
+    "url": "git+https://github.com/elementrem/elementrem-client-binaries.git"
   },
   "keywords": [
     "elementrem",
@@ -22,9 +22,9 @@
   "author": "elementrem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hiddentao/elementrem-client-binaries/issues"
+    "url": "https://github.com/elementrem/elementrem-client-binaries/issues"
   },
-  "homepage": "https://github.com/hiddentao/elementrem-client-binaries#readme",
+  "homepage": "https://github.com/elementrem/elementrem-client-binaries#readme",
   "dependencies": {
     "buffered-spawn": "^3.3.2",
     "got": "^6.5.0",
