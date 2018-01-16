@@ -8,8 +8,8 @@
                         "download": {
                             "url": "https://github.com/elementrem/go-elementrem/releases/download/v1.5.99/linux-64bit-gele-1.5.99-14052db.tar",
                             "type": "tar",
-                            "sha256": "b46e33d531e588694473941d50007ba60590cf4182abd6399bd811f3b98f0d5b",
-                            "bin": "/gele"
+                            "sha256": "c8f3b5e88c501e71d31e4622e6e0565874569c51f055d91c849b79310cc81b1f",
+                            "bin": "linux-64bit-gele-1.5.99-14052db/gele"
                         },
                         "bin": "gele",
                         "commands": {
@@ -38,10 +38,10 @@
                 "mac": {
                     "x64": {
                         "download": {
-                            "url": "https://github.com/elementrem/go-elementrem/releases/download/v1.5.99/mac-gele-1.5.99-14052db.zip",
+                            "url": "https://github.com/elementrem/go-elementrem/releases/download/v1.5.99/mac-gele-1.5.99-14052db-gen.zip",
                             "type": "zip",
-                            "sha256": "c990c4c3092c91ede6c62f25ead3205685762555421fb222f45c4cf947fe9a7b",
-                            "bin": "/gele"
+                            "sha256": "d704533f15a66a4a06cc12de1791c3a1494fd66371dc34d66fe780a219a624e9",
+                            "bin": "mac-gele-1.5.99-14052db-gen/gele"
                         },
                         "bin": "gele",
                         "commands": {
@@ -55,10 +55,10 @@
                 "win": {
                     "x64": {
                         "download": {
-                            "url": "https://github.com/elementrem/go-elementrem/releases/download/v1.5.99/windows-64bit-gele-1.5.99-14052db.zip",
+                            "url": "https://github.com/elementrem/go-elementrem/releases/download/v1.5.99/windows-64bit-gele-1.5.99-14052db-gen.zip",
                             "type": "zip",
-                            "sha256": "59ebae2b525bc923dc22ecb323dd62361443de7746a3f239a9708caa02da035e",
-                            "bin": "gele.exe"
+                            "sha256": "e222f25ca9a94e0912d604038314f434c72381298e2ce73c177d84bef446db58",
+                            "bin": "windows-64bit-gele-1.5.99-14052db-gen\\gele.exe"
                         },
                         "bin": "gele.exe",
                         "commands": {
